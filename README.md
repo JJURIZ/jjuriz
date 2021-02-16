@@ -1,5 +1,4 @@
-### <center>Jeremy Uriz</center>
-
+# <div align="center">Jeremy Uriz </div> #
 <!--
 **JJURIZ/jjuriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
