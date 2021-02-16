@@ -1,6 +1,6 @@
 # <div align="center">Jeremy Uriz </div> #
 
-### <div align="center"> 📧  jeremy.uriz@gmail.com <br/> 🔗  [LinkedIn](https://www.linkedin.com/in/jjuriz/) <br/> 💼  [Portfolio](http://jeremyuriz.com) <br/> :pencil:  [Blog](http://isanythingblog.com)  <br/> :microphone:  [Podcast](http://isanythingpodcast.com)  <a href="http://example.com/" target="_blank">Hello, world!</a></div>
+### <div align="center"> 📧  jeremy.uriz@gmail.com <br/> 🔗  [LinkedIn](https://www.linkedin.com/in/jjuriz/) <br/> 💼  [Portfolio](http://jeremyuriz.com) <br/> :pencil:  [Blog](http://isanythingblog.com)  <br/> :microphone:  [Podcast](http://isanythingpodcast.com)  <a href="http://isanythingpodcast.com/" target="_blank">My Podcast</a></div>
 ###
 
 
