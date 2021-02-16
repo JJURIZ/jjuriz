@@ -26,8 +26,7 @@ Git, Github, Heroku, Netlify, REST API
 • **Methodologies**:
 Agile/Scrum, Kanban
 
-
+### And Now For Something Completely Different ###
 - 🔭 I’m currently working on an updated site for poet and author Martin Lammon
-- 📫 How to reach me: jeremy.uriz@gmail.com
 - ⚡ Fun fact: Love Star Trek in all its iterations. Soon will have seen every officially produced episode and movie. 
 
